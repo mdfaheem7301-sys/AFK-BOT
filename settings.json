@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "GreekMafiaOFFICIAL.aternos.me", 
-    "port": 31537,   
+    "ip": "trimforgesmps.falixsrv.me", 
+    "port": 20729,   
     "version": "1.20.1"   
   },
   
@@ -20,8 +20,8 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": ""
+      "enabled": true,
+      "password": "MEOWWW"
     },
 
     "anti-afk": {
